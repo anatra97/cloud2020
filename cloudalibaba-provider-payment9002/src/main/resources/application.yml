@@ -11,6 +11,7 @@ spring:
 #         换成nginx的1111端口，做集群
         server-addr: 139.196.227.192:1111
 
+
 management:
   endpoints:
     web:
